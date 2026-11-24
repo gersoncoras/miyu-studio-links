@@ -6,7 +6,7 @@ window.MIYU = {
     { title: 'Catálogo de Velas decorativas', description: 'Luz, aromas y pequeños rituales', icon: 'candle', url: 'https://drive.google.com/file/d/1gml1rPrPGexJ5fsbxO9ATLWHYAw6edI8/view?usp=sharing' },
     { title: 'Catálogo de Recuerdos para eventos', description: 'Detalles para momentos inolvidables', icon: 'gift', url: 'https://drive.google.com/file/d/1PiQrdXAs4CL23lD6WRiVdoNtgwoZY74O/view?usp=drivesdk' }
   ],
-  whatsapp: '', // Ejemplo: https://wa.me/519XXXXXXXX (reemplaza con tu número)
+  whatsapp: 'https://wa.me/51936490884', // Ejemplo: https://wa.me/51936490884 (reemplaza con tu número)
   socials: [
     { name: 'Instagram', icon: 'instagram', url: 'https://www.instagram.com/miyustudio.pe/' },
     { name: 'TikTok', icon: 'tiktok', url: 'https://www.tiktok.com/@miyustudio.pe' },
